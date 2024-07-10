@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\trabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\trabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\persona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\persona.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\operaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\operaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\listas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\listas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\expresionlambda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\expresionlambda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\estado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\estado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\empleadonoencontradoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\empleadonoencontradoexception.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\directivo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\directivo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\diccionario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\diccionario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\introduccionvb\\coordenadastruct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E61144FB-C3A3-4189-A322-8FCD0222E1AC}|IntroduccionVB\\IntroduccionVB.vbproj|solutionrelative:introduccionvb\\coordenadastruct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estado.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Estado.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Estado.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Estado.vb",
+              "RelativeToolTip": "IntroduccionVB\\Estado.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpresionLambda.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\ExpresionLambda.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\ExpresionLambda.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\ExpresionLambda.vb",
+              "RelativeToolTip": "IntroduccionVB\\ExpresionLambda.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listas.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Listas.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Listas.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Listas.vb",
+              "RelativeToolTip": "IntroduccionVB\\Listas.vb",
+              "ViewState": "AQIAACwCAAAAAAAAAAAUwFYBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Module1.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Module1.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Module1.vb",
+              "RelativeToolTip": "IntroduccionVB\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operaciones.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Operaciones.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Operaciones.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Operaciones.vb",
+              "RelativeToolTip": "IntroduccionVB\\Operaciones.vb",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAowJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Persona.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Persona.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Persona.vb",
+              "RelativeToolTip": "IntroduccionVB\\Persona.vb",
+              "ViewState": "AQIAACEAAAAAAAAAAAA4wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trabajador.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Trabajador.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Trabajador.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Trabajador.vb",
+              "RelativeToolTip": "IntroduccionVB\\Trabajador.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoNoEncontradoException.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\EmpleadoNoEncontradoException.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\EmpleadoNoEncontradoException.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\EmpleadoNoEncontradoException.vb",
+              "RelativeToolTip": "IntroduccionVB\\EmpleadoNoEncontradoException.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empleado.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Empleado.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Empleado.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Empleado.vb",
+              "RelativeToolTip": "IntroduccionVB\\Empleado.vb",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAACwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Directivo.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Directivo.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Directivo.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Directivo.vb",
+              "RelativeToolTip": "IntroduccionVB\\Directivo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Diccionario.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Diccionario.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\Diccionario.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\Diccionario.vb",
+              "RelativeToolTip": "IntroduccionVB\\Diccionario.vb",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwEwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoordenadaStruct.vb",
+              "DocumentMoniker": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\CoordenadaStruct.vb",
+              "RelativeDocumentMoniker": "IntroduccionVB\\CoordenadaStruct.vb",
+              "ToolTip": "C:\\Dav Pru\\mi repo\\DatosGenerales\\IntroduccionVB\\IntroduccionVB\\CoordenadaStruct.vb",
+              "RelativeToolTip": "IntroduccionVB\\CoordenadaStruct.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T03:46:36.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

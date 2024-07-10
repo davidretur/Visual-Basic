@@ -1,0 +1,12 @@
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\bin\Debug\CrudBasicSqlServer.exe.config
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\bin\Debug\CrudBasicSqlServer.exe
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\bin\Debug\CrudBasicSqlServer.pdb
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\bin\Debug\CrudBasicSqlServer.xml
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.vbproj.AssemblyReference.cache
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.Cliente.resources
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.Resources.resources
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.vbproj.GenerateResource.cache
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.vbproj.CoreCompileInputs.cache
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.exe
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.xml
+C:\Dav Pru\mi repo\Visual-Basic\CrudBasicSqlServer\obj\Debug\CrudBasicSqlServer.pdb

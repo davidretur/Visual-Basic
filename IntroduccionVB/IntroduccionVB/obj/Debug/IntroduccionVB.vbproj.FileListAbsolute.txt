@@ -1,0 +1,12 @@
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\bin\Debug\IntroduccionVB.exe.config
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\bin\Debug\IntroduccionVB.exe
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\bin\Debug\IntroduccionVB.pdb
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\bin\Debug\IntroduccionVB.xml
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.vbproj.AssemblyReference.cache
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.Resources.resources
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.vbproj.GenerateResource.cache
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.vbproj.CoreCompileInputs.cache
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.exe
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.xml
+C:\Users\mille\Documents\TICH\07-Inserción\IntroduccionVB\IntroduccionVB\obj\Debug\IntroduccionVB.pdb
